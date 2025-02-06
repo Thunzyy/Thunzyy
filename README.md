@@ -1,4 +1,4 @@
-<h1 align="center">Étudiant en Cybersécurité 🎓</h1>
+<h1 align="center"> 🎓</h1>
 
 ###
 
