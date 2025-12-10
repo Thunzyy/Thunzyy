@@ -1,15 +1,8 @@
 <h1 align="center"> 🎓</h1>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Thunzyy&locale=fr&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j/n[/Y]&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thunzyy&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
-</div>
 
-###
-
-<h3 align="center">Réseaux Sociaux</h3>
+<h3 align="center">Social Média</h3>
 
 ###
 
@@ -24,7 +17,7 @@
 
 ###
 
-<p align="center">📩 Si vous souhaitez me contacter => poignard.lucas@gmail.com</p>
+<p align="center">📩 If you wish to contact me => poignard.lucas@gmail.com</p>
 <hr>
 
 <div align="center">
