@@ -1,0 +1,16 @@
+Icon sources: Simple Icons (CC0): https://github.com/simple-icons/simple-icons
+Devicon (MIT): https://github.com/devicons/devicon
+Phosphor (MIT): https://github.com/phosphor-icons/core
+Individual source URLs:
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-plain.svg
+https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/globe.svg
