@@ -23,7 +23,7 @@
 <a href="https://github.com/Thunzyy"><img src="https://streak-stats.demolab.com/?user=Thunzyy&amp;hide_current_streak=true&amp;hide_border=true&amp;background=0A0A0A&amp;sideNums=EEEEEE&amp;sideLabels=CCCCCC&amp;dates=888888&amp;stroke=333333&amp;timezone=Europe%2FParis&amp;card_width=900" width="900" alt="Total contributions and longest streak for Thunzyy, updated automatically by GitHub Readme Streak Stats" /></a>
 </p>
 
-<p align="center"><a href="https://github.com/Thunzyy"><img src="https://ghchart.rshah.org/777777/Thunzyy" width="100%" alt="GitHub contribution calendar for Thunzyy, updated automatically" /></a></p>
+<p align="center"><a href="https://github.com/Thunzyy"><img src="https://ghchart.rshah.org/00551a/Thunzyy" width="100%" alt="GitHub contribution calendar for Thunzyy, updated automatically" /></a></p>
 
 ---
 
